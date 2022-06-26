@@ -61,4 +61,4 @@ Try me!''')
         if 'www.reddit.com' in msg:
             await message.channel.send(f'New reddit format sucks, try this link instead:\nhttps://old' + msg[msg.find('www')+3:])
 
-client.run('OTc1NTMxMjg4NTI0MTI0MjAw.Gab703.TdqoltgAuqVQjtekpeZTJIhFPywuPkfrUzkD-o')
+client.run('[token hidden]')
